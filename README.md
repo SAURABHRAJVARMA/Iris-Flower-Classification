@@ -60,10 +60,11 @@ The complete implementation is available in:
 
 ## 📊 Interactive Visualizations (Plotly)
 
-- [Scatter Matrix](figures_html/scatter_matrix.html)
-- [Model Accuracy Comparison](figures_html/model_accuracy.html)
-- [Confusion Matrix](figures_html/confusion_matrix.html)
-- [Permutation Feature Importance](figures_html/permutation_feature_importance.html)
+- [Scatter Matrix](https://saurabhrajvarma.github.io/Iris-Flower-Classification/figures_html/scatter_matrix.html)
+- [Model Accuracy Comparison](https://saurabhrajvarma.github.io/Iris-Flower-Classification/figures_html/model_accuracy.html)
+- [Confusion Matrix](https://saurabhrajvarma.github.io/Iris-Flower-Classification/figures_html/confusion_matrix.html)
+- [Permutation Feature Importance](https://saurabhrajvarma.github.io/Iris-Flower-Classification/figures_html/permutation_feature_importance.html)
+
 
 ---
 
