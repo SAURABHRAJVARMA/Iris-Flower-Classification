@@ -57,14 +57,29 @@ The classic Iris dataset is used to demonstrate an end-to-end multi-class classi
 
 ## 📓 Notebook
 The complete implementation is available in:
+## 📊 Visualizations
 
-## 📊 Interactive Visualizations (Plotly)
+### 🌸 Scatter Matrix (Feature Relationships)
+![Scatter Matrix](scatter_matrix.png)  
+🔗 [Interactive Plot](scatter_matrix.html)
 
-- [Scatter Matrix](https://saurabhrajvarma.github.io/Iris-Flower-Classification/figures_html/scatter_matrix.html)
-- [Model Accuracy Comparison](https://saurabhrajvarma.github.io/Iris-Flower-Classification/figures_html/model_accuracy.html)
-- [Confusion Matrix](https://saurabhrajvarma.github.io/Iris-Flower-Classification/figures_html/confusion_matrix.html)
-- [Permutation Feature Importance](https://saurabhrajvarma.github.io/Iris-Flower-Classification/figures_html/permutation_feature_importance.html)
+---
 
+### 📈 Model Accuracy Comparison
+![Model Accuracy](model_accuracy.png)  
+🔗 [Interactive Plot](model_accuracy.html)
+
+---
+
+### 🔍 Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)  
+🔗 [Interactive Plot](confusion_matrix.html)
+
+---
+
+### 🧠 Permutation Feature Importance
+![Permutation Feature Importance](permutation_feature_importance.png)  
+🔗 [Interactive Plot](permutation_feature_importance.html)
 
 ---
 
